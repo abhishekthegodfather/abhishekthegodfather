@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abhishekthegodfather
-- 👀 I’m interested in coding, learning new technology
+- 👀 I’m interested in coding, learning new technology, computative programming
 - 🌱 I’m currently learning python, Machine learning and data science
 - 💞️ I’m looking to collaborate with great people and learn new thing from them
 - 📫 How to reach me?
